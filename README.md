@@ -1,6 +1,6 @@
 # Quantum Mechanics
 
-#### Abstract: Codes and tools on quantum mechanics.
+#### Codes and tools on quantum mechanics.
 
 **Language/Software:** *mathematica vs 12*
 
