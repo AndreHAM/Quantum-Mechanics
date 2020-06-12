@@ -12,5 +12,5 @@ Hope it helps and have fun!
 
 ### Content (for now):
 
-- Visualizing a particle in a box;
+- Particle in a box: wave function visualization;
 - Time-evolution Operator to general Hamiltonians;
