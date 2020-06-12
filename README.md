@@ -14,3 +14,4 @@ Hope it helps and have fun!
 
 - Particle in a box: wave function visualization;
 - Time-evolution Operator to general Hamiltonians;
+- von Neumann Entropy - Calculation to a generic density matrix;
