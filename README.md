@@ -20,4 +20,4 @@ Hope it helps and have fun!
 - Particle in a box: wave function visualization;
 - Time-evolution Operator to general Hamiltonians;
 - von Neumann Entropy: Calculation to a generic density matrix;
-- Creation and annihilation operators: Simple code to obtain them;
+- Creation and annihilation operators: Simple code to implement them;
