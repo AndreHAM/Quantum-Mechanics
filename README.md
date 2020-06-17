@@ -9,6 +9,11 @@ Here I will post some specific codes and tools related to QM in general. I belie
 
 Hope it helps and have fun!
 
+### References: 
+
+**[1]** *Modern Thermodynamics: From Heat Engines to Dissipative Structures*, Prigogine; Ilya and Kondepudi, Dilip
+
+
 
 ### Content (for now):
 
