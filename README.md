@@ -11,7 +11,7 @@ Hope it helps and have fun!
 
 ### References: 
 
-**[1]** *Modern Thermodynamics: From Heat Engines to Dissipative Structures*, Prigogine; Ilya and Kondepudi, Dilip
+**[1]** *Quantum Mechanics*, Sakurai
 
 
 
