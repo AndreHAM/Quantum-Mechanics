@@ -11,7 +11,7 @@ Hope it helps and have fun!
 
 ### References: 
 
-**[1]** *Quantum Mechanics*, Sakurai
+**[1]** *Modern Quantum Mechanics*, Sakurai, J.J; Napolitano, J.
 
 
 
