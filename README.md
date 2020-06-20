@@ -21,3 +21,4 @@ Hope it helps and have fun!
 - Time-evolution Operator to general Hamiltonians;
 - von Neumann Entropy: Calculation to a generic density matrix;
 - Creation and annihilation operators: Simple code to implement them;
+- Spin precession: Visualizing spin precession on the presence of a magnetic field;
