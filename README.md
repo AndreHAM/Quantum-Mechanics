@@ -2,8 +2,7 @@
 
 #### Codes and tools on quantum mechanics.
 
-<img src="https://user-images.githubusercontent.com/66641409/85235963-f0661900-b3ef-11ea-8818-f15b79730547.png" alt="drawing" width="300"/> <img src="https://user-images.githubusercontent.com/66641409/85236143-80f12900-b3f1-11ea-8e2e-d97405ca9cb6.png" alt="drawing" width="500"/>
-
+<img src="https://user-images.githubusercontent.com/66641409/85236887-5bb3e900-b3f8-11ea-91ab-535b498e692d.png" alt="drawing" width="300"/> 
 
 **Language/Software:** *mathematica vs 12*
 
