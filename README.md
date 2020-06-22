@@ -12,10 +12,6 @@ Here I will post some specific codes and tools related to QM in general. I belie
 
 Hope it helps and have fun!
 
-### References: 
-
-**[1]** *Modern Quantum Mechanics*, Sakurai, J.J; Napolitano, J.
-
 
 
 ### Content (for now):
@@ -25,3 +21,9 @@ Hope it helps and have fun!
 - von Neumann Entropy: Calculation to a generic density matrix;
 - Creation and annihilation operators: Simple code to implement them;
 - Spin precession: Visualizing spin precession on the presence of a magnetic field;
+
+
+### References: 
+
+**[1]** *Modern Quantum Mechanics*, Sakurai, J.J; Napolitano, J.
+
